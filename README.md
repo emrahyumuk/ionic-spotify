@@ -13,6 +13,9 @@ ionic-spotify
     bower install ng-cordova-oauth --save
 
     bower install angular-spotify --save
+    
+    cordova plugin add cordova-plugin-inappbrowser
+
 
   
  
